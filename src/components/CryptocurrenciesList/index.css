@@ -1,0 +1,35 @@
+/* Write your CSS code here */
+.heading {
+  color: #00e7ff;
+}
+
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.trackerContainer {
+  border-color: #00e7ff;
+  border-style: solid;
+  width: 80%;
+}
+
+.trackerHeadings {
+  background-color: #092e33;
+  color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+}
+
+.currencyName {
+  display: flex;
+  width: 30%;
+  justify-content: space-evenly;
+}
+
+.head {
+  margin-left: 30px;
+  margin-right: 10px;
+}

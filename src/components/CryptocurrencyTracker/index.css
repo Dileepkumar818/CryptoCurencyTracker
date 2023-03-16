@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.tracker-background {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #000000;
+  min-height: 100vh;
+  padding: 30px;
+}
